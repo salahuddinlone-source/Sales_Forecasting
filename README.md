@@ -58,7 +58,24 @@ Models used in the project include:
 ## 💡 Business Insights
 
 The analysis helps understand sales performance, identify trends, and support better sales planning and decision-making.
+## 📊 Results & Visualizations
 
+### Sales Trend
+The analysis visualizes historical sales trends over time and identifies variations in monthly sales.
+
+### Actual vs Predicted Sales
+The model predictions are compared with actual sales values to evaluate forecasting performance.
+
+### Monthly Sales
+Monthly aggregation is used to identify sales patterns and fluctuations over time.
+
+## 🚀 Future Improvements
+
+- Improve forecasting accuracy
+- Test advanced time-series models
+- Add seasonal forecasting
+- Add interactive dashboards
+- Deploy the forecasting model as a web application
 ## 👨‍💻 Author
 
 **Salahuddin Lone**
